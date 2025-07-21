@@ -3,4 +3,4 @@ FROM almalinux:9
 # CMD ["nginx", "-g", "daemon off;"]
 # CMD ["ping","google.com"]
 CMD ["google.com"]
-ENTRYPOINT ["ping" ]
+ENTRYPOINT ["ping"]

@@ -1,5 +1,5 @@
 FROM almalinux:9
 ENV COURSE="devops" \
     STUDENT="giri" \
-    JOB="september" \
+    JOB="september" 
  CMD ["sleep","1000"]   
